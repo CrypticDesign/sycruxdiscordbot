@@ -1,0 +1,2 @@
+# sycruxdiscordbot
+Bot for SycruxPE
